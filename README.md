@@ -1,2 +1,2 @@
-# data-science-specializtion
+# data-science-specialization
 Repository for coursework from Coursera Data Science Specialization
