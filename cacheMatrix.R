@@ -8,7 +8,7 @@
 ## as long as it is an invertible matrix. To check if the matrix 'm' is
 ## invertible run 'det(m)'. If it returns a value different than zero it is invertible.
 ## A non-square matrix is not invertible.
-m <- matrix(c(-1, -2, 1, 1), 2,2)
+## m <- matrix(c(-1, -2, 1, 1), 2,2)
 
 ##run the below code one at a time in console to test
 ##x <- makeCacheMatrix(m)
